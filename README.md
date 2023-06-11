@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/mogeko#gh-light-mode-only">
-  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Moviw&show_icons=true&include_all_commits=true&disable_animations=true#gh-light-mode-only">
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moviw&show_icons=true&theme=radical)
 
-<a href="https://github.com/mogeko#gh-dark-mode-only">
-  <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Moviw&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=dracula#gh-dark-mode-only">
-</a>
+
+## 操作系统和工具
+
+[![macOS](https://img.shields.io/badge/macOS-Ventura-000000?style=flat-square&logo=apple)](https://www.apple.com/macos/ventura/)
+
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
