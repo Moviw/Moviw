@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moviw&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1 align="center">Hi 👋, I'm Movi, Xv</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moviw&label=Profile%20views&color=0e75b6&style=flat" alt="moviw" /> </p>
 
@@ -11,3 +11,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moviw&show_icons=true&theme=radical&locale=en&layout=compact" alt="moviw" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moviw&show_icons=true&theme=radical&locale=en" alt="moviw" /></p>
+
