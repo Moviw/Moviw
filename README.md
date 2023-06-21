@@ -9,5 +9,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moviw&show_icons=true&theme=radical&locale=en" alt="moviw" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<p><img src="https://wakatime.com/share/@4872dfe0-7442-4544-a73b-b481244b846c/22896d0e-f1e8-4ad2-9f04-53887b68711a.svg"></p>
+<p><img src="https://wakatime.com/share/@4872dfe0-7442-4544-a73b-b481244b846c/83afc0e9-5b51-4699-a4f0-d182680ae711.svg"></p>
