@@ -10,6 +10,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moviw&show_icons=true&theme=radical&locale=en" alt="moviw" /></p>
 
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
