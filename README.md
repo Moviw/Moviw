@@ -12,3 +12,4 @@
 
 <p><img align="left" src="https://wakatime.com/share/@4872dfe0-7442-4544-a73b-b481244b846c/22896d0e-f1e8-4ad2-9f04-53887b68711a.svg" style="width: 47%; height: 50%;"></p>
 <p><img align="right" src="https://wakatime.com/share/@4872dfe0-7442-4544-a73b-b481244b846c/83afc0e9-5b51-4699-a4f0-d182680ae711.svg" style="width: 47%; height: 50%;"></p>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moviw)](https://github.com/anuraghazra/github-readme-stats)
