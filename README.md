@@ -1,5 +1,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moviw&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h1 align="center">Hi 👋, I'm Movi, Xv</h1>
+<h1 align="center">Hi 👋, I'm Zimo Xu</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
