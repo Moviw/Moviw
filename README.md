@@ -17,10 +17,11 @@
   <img src="https://raw.githubusercontent.com/moviw/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moviw&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h1 align="center">
-
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 77px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moviw&show_icons=true&theme=radical&locale=en&layout=compact" alt="moviw" /></p>
 
