@@ -20,7 +20,7 @@
   <a href="https://steamcommunity.com/profiles/76561198339080756/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40px" alt="Steam" />
   </a>
-  <a href="[https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/%E5%AD%90%E5%A2%A8-%E8%AE%B8-0571a5335/)">
+  <a href="https://www.linkedin.com/in/%E5%AD%90%E5%A2%A8-%E8%AE%B8-0571a5335/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/movix333/">
