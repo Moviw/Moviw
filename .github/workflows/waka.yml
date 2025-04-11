@@ -14,7 +14,7 @@ inputs:
 
   SECTION_NAME:
     description: 'Name used in readme to scope the updated section'
-    required: false
+    required: True
     default: "waka"
 
   PULL_BRANCH_NAME:
@@ -28,7 +28,7 @@ inputs:
     default: ""
 
   SHOW_OS:
-    required: false
+    required: True
     description: 'Show the list of OS Worked on In dev metrics'
     default: "True"
 
@@ -38,7 +38,7 @@ inputs:
     default: "True"
 
   SHOW_EDITORS:
-    required: false
+    required: True
     description: 'Show the Editors used in dev metrics'
     default: "True"
 
@@ -53,7 +53,7 @@ inputs:
     default: "True"
 
   SHOW_LANGUAGE:
-    required: false
+    required: True
     description: "Show the Coding language used in dev metrics"
     default: "True"
 
@@ -73,7 +73,7 @@ inputs:
     default: "True"
 
   SHOW_DAYS_OF_WEEK:
-    required: false
+    required: True
     description: "show day of week you are most productive"
     default: "True"
 
@@ -93,7 +93,7 @@ inputs:
     default: "True"
 
   SHOW_TOTAL_CODE_TIME:
-    required: false
+    required: True
     description: "Show Total Time you have coded"
     default: "True"
 
@@ -128,7 +128,7 @@ inputs:
     default: "en"
 
   UPDATED_DATE_FORMAT:
-    required: false
+    required: True
     description: "Updated date format"
     default: "%d/%m/%Y %H:%M:%S"
 
