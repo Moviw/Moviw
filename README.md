@@ -16,8 +16,20 @@
   ## How to reach me 📫 
 
   
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198339080756/)   &nbsp;  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/movix333/)  &nbsp; <a href="mailto:xvzimo@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://steamcommunity.com/profiles/76561198339080756/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40px" alt="Steam" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityapal1/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/movix333/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40px" alt="Instagram" />
+  </a>
+  <a href="mailto:xvzimo@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40px" alt="Gmail" />
+  </a>
+</div>
 
   ## Languages and Tools 🧑‍💻
 
