@@ -2,7 +2,7 @@
   ## Hey there, I'm Zimo Xu  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=moviw&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="side Image" align="right" width="200" height="auto" />
 
   - 🔭 I’m currently an M1 student at Information Science and Technology, UTokyo. <img src="https://www.kindpng.com/picc/m/749-7498402_university-of-tokyo-logo-hd-png-download.png" alt="UTokyo" style="height: 20px; vertical-align: middle;">
   - 🌱 Specializing in Reinforcement Learning and Multimodality.
@@ -16,7 +16,7 @@
   ## How to reach me 📫 
 
   
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://steamcommunity.com/profiles/76561198339080756/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40px" alt="Steam" />
   </a>
