@@ -13,6 +13,10 @@
   - 🥳 Playing guitar, basketball, PS5, switch, and singing when I'm free.
   - 😄 Pronouns: He / Him
 
+
+![](https://raw.githubusercontent.com/moviw/moviw/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg)
+
 <a href="#macropower-title">
   <img src="https://raw.githubusercontent.com/moviw/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
