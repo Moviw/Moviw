@@ -27,7 +27,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40px" alt="Instagram" />
   </a>
   <a href="mailto:xvzimo@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40px" alt="Gmail" />
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40px" alt="Gmail" />
   </a>
   <a href="https://www.zhihu.com/people/Movix333">
     <img src="https://img.icons8.com/?size=100&id=2Sk9rPFlL-fu&format=png&color=228BE6" width="40px" alt="Instagram" />
