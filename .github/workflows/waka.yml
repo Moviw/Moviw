@@ -1,6 +1,6 @@
 name: Generates Waka Stats
 
-
+# based on https://github.com/anmol098/waka-readme-stats/
 on:
   schedule:
     # Runs at 12am IST
@@ -30,4 +30,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: True
           SHOW_SHORT_INFO: True
           SHOW_LOC_CHART: False
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 1
