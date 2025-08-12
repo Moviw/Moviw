@@ -70,8 +70,6 @@
 
 > 📦 958.7 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -105,20 +103,16 @@ Sunday                   30 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 45 mins        ████████████████████████░   97.95 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-transformer-from-scratch 1 hr 19 mins        ██████████████████░░░░░░░   73.67 % 
-WhatCode                 28 mins             ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
