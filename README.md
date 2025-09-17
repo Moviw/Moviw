@@ -64,6 +64,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2025%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 958.7 kB Used in GitHub's Storage 
@@ -74,6 +76,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Friday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Saturday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Sunday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
