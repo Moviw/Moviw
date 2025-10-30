@@ -105,18 +105,16 @@ Sunday                   30 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Research                 39 mins             ██████████░░░░░░░░░░░░░░░   39.56 % 
-OmniParser               36 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
-transformers-code        24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
