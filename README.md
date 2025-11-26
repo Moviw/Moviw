@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="side Image" align="right" width="200" height="auto" />
 
   - 🔭 I’m currently an M1 student at Information Science and Technology, UTokyo. <img src="https://www.kindpng.com/picc/m/749-7498402_university-of-tokyo-logo-hd-png-download.png" alt="UTokyo" style="height: 20px; vertical-align: middle;">
-  - 🌱 Specializing in Reinforcement Learning and Multimodality.
+  - 🌱 Specializing in Reinforcement Learning, Language Reasoning Models and Multimodality.
   - 🌍 Speaking Chinese, English, and Japanese.
   - 🥳 Playing guitar, basketball, PS5, switch, and singing when I'm free.
 
