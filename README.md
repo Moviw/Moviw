@@ -105,17 +105,16 @@ Sunday                   29 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Go                       10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WhatCode                 10 mins             █████████████████████████   98.39 % 
-llm-demo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
