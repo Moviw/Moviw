@@ -64,7 +64,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,54 +78,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.75 % 
-🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.95 % 
-🌙 Night                  40 commits          ████████░░░░░░░░░░░░░░░░░   31.75 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Saturday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   1 hr                ███████████░░░░░░░░░░░░░░   43.48 % 
-Other                    56 mins             ██████████░░░░░░░░░░░░░░░   40.75 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-
-🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████░░░░░░░░░░░░   50.17 % 
-Unknown Editor           1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.83 % 
-
-🐱‍💻 Projects: 
-Part1                    1 hr 9 mins         ████████████░░░░░░░░░░░░░   49.59 % 
-continuous-thought-machin43 mins             ████████░░░░░░░░░░░░░░░░░   31.16 % 
-ctm                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Sakana                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Slime_Volley             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-
-💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
