@@ -64,8 +64,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2045%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 246.7 kB Used in GitHub's Storage 
@@ -78,6 +76,54 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.95 % 
+🌙 Night                  40 commits          ████████░░░░░░░░░░░░░░░░░   31.75 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Saturday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    1 hr 11 mins        █████████████░░░░░░░░░░░░   51.04 % 
+Python                   39 mins             ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+
+🔥 Editors: 
+Unknown Editor           1 hr 17 mins        ██████████████░░░░░░░░░░░   55.39 % 
+VS Code                  1 hr 2 mins         ███████████░░░░░░░░░░░░░░   44.61 % 
+
+🐱‍💻 Projects: 
+Part1                    1 hr 32 mins        ████████████████░░░░░░░░░   66.00 % 
+Slime_Volley             27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+ctm                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Sakana                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+
+💻 Operating System: 
+Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
