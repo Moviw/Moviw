@@ -64,8 +64,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%202%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 247.0 kB Used in GitHub's Storage 
@@ -78,53 +76,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
-🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   3 hrs 44 mins       ██████████████████████░░░   88.41 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-SSH Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 14 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-TorchCode                2 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.92 % 
-cello                    1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.06 % 
-3dgs                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-
-💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████░░░░░░░░░░░░   53.64 % 
-Linux                    1 hr 57 mins        ████████████░░░░░░░░░░░░░   46.36 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
