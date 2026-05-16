@@ -64,6 +64,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2059%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 247.0 kB Used in GitHub's Storage 
@@ -76,6 +78,48 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   2 hrs 6 mins        ██████████████████████░░░   89.20 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cello                    1 hr 40 mins        ██████████████████░░░░░░░   70.35 % 
+MinivLLM                 42 mins             ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+
+💻 Operating System: 
+Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
