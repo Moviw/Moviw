@@ -78,52 +78,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
-🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   2 hrs 24 mins       ███████████████████░░░░░░   74.69 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-OA                       1 hr 35 mins        ████████████░░░░░░░░░░░░░   49.49 % 
-cello                    55 mins             ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-MinivLLM                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-
-💻 Operating System: 
-Linux                    1 hr 37 mins        █████████████░░░░░░░░░░░░   50.51 % 
-Mac                      1 hr 35 mins        ████████████░░░░░░░░░░░░░   49.49 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
