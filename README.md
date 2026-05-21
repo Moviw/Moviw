@@ -64,7 +64,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2048%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,6 +78,54 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   2 hrs 30 mins       ██████████████████░░░░░░░   71.80 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+OA                       1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.57 % 
+cello                    52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+MinivLLM                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+ctm                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Part3                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+
+💻 Operating System: 
+Linux                    1 hr 54 mins        ██████████████░░░░░░░░░░░   54.43 % 
+Mac                      1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.57 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
