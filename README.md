@@ -64,8 +64,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%201%20min-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 247.0 kB Used in GitHub's Storage 
@@ -78,54 +76,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
-🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   1 hr 47 mins        ████████████░░░░░░░░░░░░░   46.15 % 
-Markdown                 1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   31.89 % 
-Go                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Makefile                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-smartnews                1 hr 40 mins        ███████████░░░░░░░░░░░░░░   43.12 % 
-RAG-system               58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Unknown Project          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Eino-Agent               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-cello                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-
-💻 Operating System: 
-Linux                    3 hrs 40 mins       ████████████████████████░   94.39 % 
-Mac                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
