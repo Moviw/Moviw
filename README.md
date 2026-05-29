@@ -64,6 +64,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2057%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 247.0 kB Used in GitHub's Storage 
@@ -76,6 +78,55 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 1 hr 40 mins        ███████████░░░░░░░░░░░░░░   42.05 % 
+Python                   1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Git Config               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Go                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 51 mins       ██████████████████░░░░░░░   71.74 % 
+Codex CLI                1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+
+🐱‍💻 Projects: 
+RAG-system               58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+smartnews                53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Amazon3                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Amazon                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+
+💻 Operating System: 
+Linux                    3 hrs 45 mins       ████████████████████████░   94.51 % 
+Mac                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
