@@ -78,55 +78,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   31.01 % 
-🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.23 % 
-🌙 Night                  43 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Sunday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   2 hrs 5 mins        █████████████░░░░░░░░░░░░   52.56 % 
-Markdown                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Git Config               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-TOML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-
-🔥 Editors: 
-Codex CLI                2 hrs 51 mins       ██████████████████░░░░░░░   71.81 % 
-VS Code                  1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-
-🐱‍💻 Projects: 
-cello                    1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   33.00 % 
-vector-db-tutorial       33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Hennge                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Amazon3                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Amazon                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-
-💻 Operating System: 
-Linux                    3 hrs 48 mins       ████████████████████████░   95.60 % 
-Mac                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
