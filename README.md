@@ -68,16 +68,65 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 247.0 kB Used in GitHub's Storage 
+> 📦 247.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+🌆 Daytime                40 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
+🌃 Evening                39 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌙 Night                  44 commits          ████████░░░░░░░░░░░░░░░░░   33.85 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Friday                   29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Saturday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Sunday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   2 hrs 3 mins        █████████████████░░░░░░░░   69.22 % 
+TOML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+
+🔥 Editors: 
+Codex CLI                1 hr 49 mins        ███████████████░░░░░░░░░░   61.33 % 
+VS Code                  1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   38.67 % 
+
+🐱‍💻 Projects: 
+cello                    1 hr 19 mins        ███████████░░░░░░░░░░░░░░   44.68 % 
+vector-db-tutorial       33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Hennge                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Real-Time Delivery Event 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Downloads                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+
+💻 Operating System: 
+Linux                    2 hrs 46 mins       ███████████████████████░░   93.19 % 
+Mac                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
