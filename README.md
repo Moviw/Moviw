@@ -17,23 +17,14 @@
 
   
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://steamcommunity.com/profiles/76561198339080756/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40px" alt="Steam" />
-  </a>
-  <a href="https://www.linkedin.com/in/%E5%AD%90%E5%A2%A8-%E8%AE%B8-0571a5335/" target="_blank">
+  <a href="https://www.linkedin.com/in/zimo-xu-0571a5335/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/movix333/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40px" alt="Instagram" />
   </a>
-  <a href="mailto:xvzimo@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40px" alt="Gmail" />
-  </a>
   <a href="https://www.zhihu.com/people/Movix333" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=2Sk9rPFlL-fu&format=png&color=228BE6" width="40px" alt="Zhihu" />
-  </a>
-  <a href="https://github.com/Moviw" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" width="40px" alt="GitHub" />
   </a>
 </div>
 
