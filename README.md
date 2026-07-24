@@ -54,66 +54,14 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-🌆 Daytime                49 commits          ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-🌃 Evening                46 commits          ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-🌙 Night                  62 commits          █████████░░░░░░░░░░░░░░░░   37.35 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Tuesday                  25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Friday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Sunday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-JSON                     46 mins             ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Python                   43 mins             ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Git Config               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-
-🔥 Editors: 
-Codex CLI                1 hr 25 mins        ██████████████░░░░░░░░░░░   55.68 % 
-Claude Code              54 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Obsidian                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-
-🐱‍💻 Projects: 
-cello                    53 mins             █████████░░░░░░░░░░░░░░░░   34.73 % 
-MinivLLM                 41 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-LAVA                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-micro-expert-visual-bridg7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-rag-retrieval-benchmark  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-
-💻 Operating System: 
-Linux                    2 hrs 27 mins       ████████████████████████░   95.68 % 
-Mac                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   10 repos            █████████████░░░░░░░░░░░░   52.63 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
