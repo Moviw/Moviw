@@ -54,6 +54,60 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2010%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌆 Daytime                60 commits          ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌃 Evening                50 commits          ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+🌙 Night                  70 commits          █████████░░░░░░░░░░░░░░░░   37.04 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Saturday                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Sunday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   4 hrs 48 mins       ██████████████░░░░░░░░░░░   56.30 % 
+Markdown                 1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+
+🔥 Editors: 
+Claude Code              4 hrs 39 mins       ██████████████░░░░░░░░░░░   54.57 % 
+Codex CLI                3 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.51 % 
+VS Code                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Obsidian                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+
+🐱‍💻 Projects: 
+NIPS                     3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.98 % 
+cello                    1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+rag-retrieval-benchmark  59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+LAVA                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+MinivLLM                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+
+💻 Operating System: 
+Linux                    8 hrs 20 mins       ████████████████████████░   97.67 % 
+Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
