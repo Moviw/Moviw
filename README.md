@@ -61,21 +61,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-🌆 Daytime                76 commits          █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌃 Evening                51 commits          ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌙 Night                  70 commits          ████████░░░░░░░░░░░░░░░░░   33.82 % 
+🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+🌆 Daytime                76 commits          █████████░░░░░░░░░░░░░░░░   36.54 % 
+🌃 Evening                52 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  70 commits          ████████░░░░░░░░░░░░░░░░░   33.65 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Wednesday                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Thursday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Saturday                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Sunday                   50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Monday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Wednesday                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Friday                   34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Saturday                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Sunday                   50 commits          ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
 ```
 
 
@@ -85,50 +85,50 @@ Sunday                   50 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   7 hrs 4 mins        ██████████████░░░░░░░░░░░   57.66 % 
-Markdown                 2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-TeX                      2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-BibTeX                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Python                   7 hrs               ███████████████░░░░░░░░░░   58.03 % 
+Markdown                 2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+TeX                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+BibTeX                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Codex CLI                6 hrs 21 mins       █████████████░░░░░░░░░░░░   51.84 % 
-Claude Code              5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.48 % 
-VS Code                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Codex CLI                6 hrs 21 mins       █████████████░░░░░░░░░░░░   52.66 % 
+Claude Code              5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.21 % 
+VS Code                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🐱‍💻 Projects: 
-NIPS                     10 hrs 37 mins      ██████████████████████░░░   86.54 % 
-cello                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-hf                       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-MinivLLM                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-micro-expert-visual-bridg7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+NIPS                     10 hrs 37 mins      ██████████████████████░░░   88.02 % 
+cello                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+hf                       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+MinivLLM                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+xvzimo                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Linux                    12 hrs 13 mins      █████████████████████████   99.59 % 
-Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Linux                    12 hrs              █████████████████████████   99.58 % 
+Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 5 mins (98.5%)
+⏱ AI Coding Time: 11 hrs 54 mins (98.72%)
 
-✍️ 8,733 lines written by AI, 6 lines written by hand (99.93% AI-written)
+✍️ 8,558 lines written by AI, 6 lines written by hand (99.93% AI-written)
 
-🔤 279,040,256 Input Tokens, 900,878 Output Tokens
+🔤 276,936,576 Input Tokens, 885,444 Output Tokens
 
-💵 $1419.37 Estimated AI Cost This Week
+💵 $1409.47 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 131 AI Prompts
+🧠 11 AI Sessions, 126 AI Prompts
 
-Opus                     5,781 lines         ████████████████░░░░░░░░░   64.66 % 
-GPT                      3,159 lines         █████████░░░░░░░░░░░░░░░░   35.34 % 
+Opus                     5,606 lines         ████████████████░░░░░░░░░   63.96 % 
+GPT                      3,159 lines         █████████░░░░░░░░░░░░░░░░   36.04 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 750 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📄 Detailed Prompter — average 769 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
