@@ -54,9 +54,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -85,52 +85,52 @@ Sunday                   50 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   8 hrs 38 mins       █████████████████░░░░░░░░   67.72 % 
-TeX                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-AppleScript              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Python                   3 hrs 7 mins        ██████████████████░░░░░░░   73.34 % 
+AppleScript              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+TeX                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-Codex CLI                11 hrs 58 mins      ███████████████████████░░   93.89 % 
-VS Code                  46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex CLI                3 hrs 41 mins       ██████████████████████░░░   86.49 % 
+VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-NIPS                     9 hrs 38 mins       ███████████████████░░░░░░   75.61 % 
-cello                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-xvzimo                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Movix                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Yodo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+NIPS                     2 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.02 % 
+cello                    1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.87 % 
+xvzimo                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Movix                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Yodo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Linux                    11 hrs 5 mins       ██████████████████████░░░   86.98 % 
-Mac                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Windows                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Linux                    3 hrs 32 mins       █████████████████████░░░░   82.99 % 
+Mac                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Windows                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 41 mins (99.44%)
+⏱ AI Coding Time: 4 hrs 12 mins (98.5%)
 
-✍️ 6,148 lines written by AI, 16 lines written by hand (99.74% AI-written)
+✍️ 1,785 lines written by AI, 13 lines written by hand (99.28% AI-written)
 
-🔤 207,651,543 Input Tokens, 608,711 Output Tokens
+🔤 54,558,205 Input Tokens, 145,120 Output Tokens
 
-💵 $1161.79 Estimated AI Cost This Week
+💵 $395.07 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 120 AI Prompts
+🧠 7 AI Sessions, 28 AI Prompts
 
-GPT                      6,175 lines         ████████████████████████░   95.46 % 
-Opus                     171 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Codex-Cli                123 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+GPT                      1,664 lines         █████████████████████░░░░   84.98 % 
+Opus                     171 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Codex-Cli                123 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.96% of changed lines were hand-edited
+🤖 AI-Driven — 99.28% of written lines came from AI
+📝 Concise Prompter — average 377 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
