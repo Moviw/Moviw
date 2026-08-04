@@ -85,58 +85,57 @@ Sunday                   50 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   3 hrs 7 mins        ██████████████████░░░░░░░   73.34 % 
-AppleScript              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-TeX                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Python                   29 mins             █████████░░░░░░░░░░░░░░░░   36.31 % 
+Other                    19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+TeX                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+AppleScript              10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 41 mins       ██████████████████████░░░   86.49 % 
-VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Codex CLI                49 mins             ████████████████░░░░░░░░░   62.44 % 
+VS Code                  29 mins             █████████░░░░░░░░░░░░░░░░   37.44 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-NIPS                     2 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.02 % 
-cello                    1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.87 % 
-xvzimo                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Movix                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Yodo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+NIPS                     49 mins             ████████████████░░░░░░░░░   62.30 % 
+Movix                    19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+xvzimo                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+agentdojo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Yodo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    3 hrs 32 mins       █████████████████████░░░░   82.99 % 
-Mac                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Windows                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Linux                    50 mins             ████████████████░░░░░░░░░   62.63 % 
+Windows                  19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Mac                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (98.5%)
+⏱ AI Coding Time: 1 hr 16 mins (95.2%)
 
-✍️ 1,785 lines written by AI, 13 lines written by hand (99.28% AI-written)
+✍️ 402 lines written by AI, 13 lines written by hand (96.87% AI-written)
 
-🔤 54,558,205 Input Tokens, 145,120 Output Tokens
+🔤 16,014,984 Input Tokens, 37,115 Output Tokens
 
-💵 $395.07 Estimated AI Cost This Week
+💵 $205.76 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 28 AI Prompts
+🧠 4 AI Sessions, 12 AI Prompts
 
-GPT                      1,664 lines         █████████████████████░░░░   84.98 % 
-Opus                     171 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Codex-Cli                123 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+GPT                      402 lines           ██████████████████░░░░░░░   70.16 % 
+Opus                     171 lines           ███████░░░░░░░░░░░░░░░░░░   29.84 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.28% of written lines came from AI
-📝 Concise Prompter — average 377 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.99% of changed lines were hand-edited
+🤖 AI-Driven — 96.87% of written lines came from AI
+📝 Concise Prompter — average 191 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 12.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            █████████████░░░░░░░░░░░░   52.63 % 
+Python                   9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
