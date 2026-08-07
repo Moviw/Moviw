@@ -54,10 +54,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2023%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2054%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -85,34 +81,34 @@ Sunday                   50 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   29 mins             ██████████░░░░░░░░░░░░░░░   38.92 % 
-Other                    22 mins             ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-TeX                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Python                   29 mins             ██████████░░░░░░░░░░░░░░░   38.95 % 
+Other                    22 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+TeX                      15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-Codex CLI                42 mins             ██████████████░░░░░░░░░░░   56.68 % 
-VS Code                  32 mins             ███████████░░░░░░░░░░░░░░   43.20 % 
+Codex CLI                42 mins             ██████████████░░░░░░░░░░░   56.73 % 
+VS Code                  32 mins             ███████████░░░░░░░░░░░░░░   43.14 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-NIPS                     49 mins             █████████████████░░░░░░░░   66.78 % 
-Movix                    22 mins             ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+NIPS                     49 mins             █████████████████░░░░░░░░   66.85 % 
+Movix                    22 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
 openagents               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 agentdojo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Yodo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Formatting_Instructions_F0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    50 mins             █████████████████░░░░░░░░   67.14 % 
-Windows                  24 mins             ████████░░░░░░░░░░░░░░░░░   32.75 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Linux                    50 mins             █████████████████░░░░░░░░   67.20 % 
+Windows                  24 mins             ████████░░░░░░░░░░░░░░░░░   32.78 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (94.86%)
+⏱ AI Coding Time: 1 hr 10 mins (94.95%)
 
 ✍️ 413 lines written by AI, 13 lines written by hand (96.95% AI-written)
 
