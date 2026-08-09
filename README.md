@@ -9,8 +9,10 @@
   - 🌍 Speaking English, Japanese, and Chinese.
 
 
-![](https://raw.githubusercontent.com/moviw/moviw/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/overview.svg" alt="GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg" alt="Most used languages" />
+</p>
 
   ## How to reach me 📫 
 
