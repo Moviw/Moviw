@@ -56,7 +56,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -85,27 +85,27 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   31.99 % 
-TypeScript               1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Python                   47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Python                   3 hrs 27 mins       █████████████░░░░░░░░░░░░   53.07 % 
+Other                    1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+TypeScript               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       ████████████████░░░░░░░░░   62.06 % 
-Codex CLI                1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   37.94 % 
+VS Code                  4 hrs 59 mins       ███████████████████░░░░░░   76.61 % 
+Codex CLI                1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
 
 🐱‍💻 Projects: 
-xvzimo                   1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-openagents               1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Liquid                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-minimind                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Movix                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+minimind                 3 hrs 16 mins       █████████████░░░░░░░░░░░░   50.30 % 
+xvzimo                   1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+openagents               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Liquid                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Movix                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████░░░░░░░░   67.82 % 
-Mac                      1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-Linux                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Windows                  5 hrs 14 mins       ████████████████████░░░░░   80.42 % 
+Mac                      1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 **I Mostly Code in Python** 
