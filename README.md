@@ -14,20 +14,6 @@
   <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg" alt="Most used languages" />
 </p>
 
-  ## How to reach me 📫 
-
-  
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/zimo-xu-0571a5335/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/movix333/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40px" alt="Instagram" />
-  </a>
-  <a href="https://www.zhihu.com/people/Movix333" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=2Sk9rPFlL-fu&format=png&color=228BE6" width="40px" alt="Zhihu" />
-  </a>
-</div>
 
   ## Languages and Tools 🧑‍💻
 
