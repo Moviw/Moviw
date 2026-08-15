@@ -44,57 +44,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2040%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-🌆 Daytime                46 commits          ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌃 Evening                46 commits          ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌙 Night                  51 commits          ████████░░░░░░░░░░░░░░░░░   34.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Saturday                 21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Sunday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Python                   4 hrs 51 mins       ███████████████████░░░░░░   75.67 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 28 mins       █████████████████████░░░░   85.22 % 
-Codex Vscode             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Obsidian                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-
-🐱‍💻 Projects: 
-minimind                 4 hrs 25 mins       █████████████████░░░░░░░░   69.09 % 
-Liquid                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-zai                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-呓语回响                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-internlm2-1_8b-reward    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-
-💻 Operating System: 
-Windows                  5 hrs 52 mins       ███████████████████████░░   91.62 % 
-Mac                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
