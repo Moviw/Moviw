@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -71,27 +71,29 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   4 hrs 8 mins        ███████████████████░░░░░░   77.67 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Python                   1 hr 36 mins        █████████████░░░░░░░░░░░░   51.20 % 
+Markdown                 51 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               ███████████████████░░░░░░   75.32 % 
-Codex Vscode             37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Claude Code              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Obsidian                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+VS Code                  1 hr 27 mins        ████████████░░░░░░░░░░░░░   46.54 % 
+Claude Code              43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Codex Vscode             37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Obsidian                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 🐱‍💻 Projects: 
-minimind                 3 hrs 56 mins       ███████████████████░░░░░░   74.05 % 
-zai                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-呓语回响                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Downloads                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-internlm2-1_8b-reward    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+minimind                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   36.76 % 
+zai                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+lfm2.5-lab               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+呓语回响                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Downloads                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       ██████████████████████░░░   87.09 % 
-Mac                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Windows                  1 hr 50 mins        ███████████████░░░░░░░░░░   58.96 % 
+Mac                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Linux                    35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
 ```
 
 **I Mostly Code in Python** 
