@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -71,23 +71,21 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TOML                     30 mins             ████████████░░░░░░░░░░░░░   47.32 % 
-Python                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+TOML                     29 mins             █████████████████████░░░░   85.45 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████░░░░░░░░   66.73 % 
-Claude Code              21 mins             ████████░░░░░░░░░░░░░░░░░   33.27 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cello                    30 mins             ████████████░░░░░░░░░░░░░   47.80 % 
-lfm2.5-lab               20 mins             ████████░░░░░░░░░░░░░░░░░   32.10 % 
-Unknown Project          13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+cello                    21 mins             ███████████████░░░░░░░░░░   61.85 % 
+Unknown Project          13 mins             ██████████░░░░░░░░░░░░░░░   38.15 % 
 
 💻 Operating System: 
-Linux                    51 mins             ████████████████████░░░░░   79.90 % 
-Mac                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Linux                    21 mins             ███████████████░░░░░░░░░░   61.85 % 
+Mac                      13 mins             ██████████░░░░░░░░░░░░░░░   38.15 % 
 ```
 
 **I Mostly Code in Python** 
