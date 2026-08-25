@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%201%20min-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -71,21 +71,21 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TOML                     29 mins             █████████████████████░░░░   85.45 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TOML                     29 mins             ████████████████████░░░░░   81.69 % 
+Python                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cello                    21 mins             ███████████████░░░░░░░░░░   61.85 % 
-Unknown Project          13 mins             ██████████░░░░░░░░░░░░░░░   38.15 % 
+cello                    22 mins             ████████████████░░░░░░░░░   63.53 % 
+Unknown Project          13 mins             █████████░░░░░░░░░░░░░░░░   36.47 % 
 
 💻 Operating System: 
-Linux                    21 mins             ███████████████░░░░░░░░░░   61.85 % 
-Mac                      13 mins             ██████████░░░░░░░░░░░░░░░   38.15 % 
+Linux                    22 mins             ████████████████░░░░░░░░░   63.53 % 
+Mac                      13 mins             █████████░░░░░░░░░░░░░░░░   36.47 % 
 ```
 
 **I Mostly Code in Python** 
