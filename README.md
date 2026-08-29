@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2040%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -71,26 +71,26 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      1 hr 37 mins        ████████████████░░░░░░░░░   62.08 % 
-TOML                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TeX                      1 hr 37 mins        ███████████████░░░░░░░░░░   59.55 % 
+TOML                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 39 mins        ████████████████░░░░░░░░░   63.08 % 
-VS Code                  57 mins             █████████░░░░░░░░░░░░░░░░   36.92 % 
+Codex Vscode             1 hr 42 mins        ████████████████░░░░░░░░░   62.52 % 
+VS Code                  1 hr 1 min          █████████░░░░░░░░░░░░░░░░   37.48 % 
 
 🐱‍💻 Projects: 
-new-chat                 1 hr 15 mins        ████████████░░░░░░░░░░░░░   47.99 % 
-ll                       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-cello                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-paper                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+new-chat                 1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.04 % 
+ll                       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+cello                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Unknown Project          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+paper                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 
 💻 Operating System: 
-Mac                      2 hrs 14 mins       █████████████████████░░░░   85.56 % 
-Linux                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Mac                      2 hrs 21 mins       ██████████████████████░░░   86.15 % 
+Linux                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 ```
 
 **I Mostly Code in Python** 
