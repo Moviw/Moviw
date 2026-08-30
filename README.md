@@ -42,7 +42,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -71,26 +71,27 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      2 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.68 % 
-Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-TOML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TeX                      2 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.74 % 
+Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Other                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 34 mins       ███████████████░░░░░░░░░░   58.99 % 
-VS Code                  1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   41.01 % 
+Codex Vscode             2 hrs 46 mins       ████████████████░░░░░░░░░   64.96 % 
+VS Code                  1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🐱‍💻 Projects: 
-new-chat                 1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-pa-pe                    54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-CapLite改                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Unknown Project          30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-ll                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+new-chat                 1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+pa-pe                    54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+CapLite改                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+ll                       35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Mac                      3 hrs 58 mins       ███████████████████████░░   91.33 % 
-Linux                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Mac                      4 hrs 9 mins        ████████████████████████░   97.32 % 
+Linux                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 
 **I Mostly Code in Python** 
