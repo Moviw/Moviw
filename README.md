@@ -42,26 +42,26 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-🌆 Daytime                45 commits          ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌃 Evening                46 commits          ████████░░░░░░░░░░░░░░░░░   30.87 % 
-🌙 Night                  51 commits          █████████░░░░░░░░░░░░░░░░   34.23 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+🌆 Daytime                45 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌃 Evening                47 commits          ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌙 Night                  51 commits          ████████░░░░░░░░░░░░░░░░░   34.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Tuesday                  17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Sunday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Tuesday                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Thursday                 19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Sunday                   33 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
 ```
 
 
@@ -71,28 +71,27 @@ Sunday                   33 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.41 % 
-Markdown                 1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Other                    1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Markdown                 3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+TeX                      2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Python                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+TOML                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.12 % 
-VS Code                  2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
-Claude Code              1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+VS Code                  5 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.44 % 
+Codex Vscode             4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+Claude Code              1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-xvzimo                   1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-new-chat                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-pa-pe                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-CapLite改                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-ll                       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+new-chat                 3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+xvzimo                   2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+AssetWorldModel          1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Yodo                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+pa-pe                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 💻 Operating System: 
-Mac                      6 hrs 19 mins       █████████████████████████   99.59 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Mac                      11 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
