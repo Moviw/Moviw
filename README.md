@@ -15,18 +15,6 @@
   <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg" alt="Most used languages" />
 </div>
 
-## 🚀 Selected Open Source Contributions
-
-Bug fixes and test coverage landed in production ML/agent infrastructure repos, mostly found by reading unfamiliar codebases rather than from filed issues:
-
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [NVIDIA/TensorRT-Model-Connect](https://github.com/NVIDIA/TensorRT-Model-Connect) | Fixed a silent image-drop bug in the `IPipeline` runtime (a text/image pipeline would silently ignore the input image instead of rejecting it) found while reading the VL pipeline path; added regression test coverage for the OCR and multimodal model configs | ✅ 3 PRs merged ([#1145](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1145), [#1143](https://github.com/NVIDIA/TensorRT-Model-Connect/pull/1143), +1 more) |
-| [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Hardened the self-reinforcement detector so an attacker-controlled, independent write decays history by one entry instead of wiping the whole window | 🔍 [In review (#109)](https://github.com/OWASP/www-project-agent-memory-guard/pull/109) |
-| [mengram](https://github.com/alibaizhanov/mengram) | Fixed MCP fact rendering in the activity feed | ✅ [Merged (#99)](https://github.com/alibaizhanov/mengram/pull/99) |
-
-More fixes open across other agent/LLM-tooling projects (AgenticGoKit, giga_agent, OctoBus, MiMo-Code, openagents) — see [all pull requests](https://github.com/pulls?q=is%3Apr+author%3AMoviw).
-
 ## Languages and Tools 🧑‍💻
 
 <div style="display: flex; margin: 0 auto; width: fit-content;" align="center">
