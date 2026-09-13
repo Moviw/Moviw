@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-🌆 Daytime                49 commits          ██████████░░░░░░░░░░░░░░░   39.52 % 
-🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-🌙 Night                  38 commits          ████████░░░░░░░░░░░░░░░░░   30.65 % 
+🌞 Morning                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+🌆 Daytime                49 commits          ██████████░░░░░░░░░░░░░░░   38.58 % 
+🌃 Evening                29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+🌙 Night                  41 commits          ████████░░░░░░░░░░░░░░░░░   32.28 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Thursday                 19 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Friday                   56 commits          ███████████░░░░░░░░░░░░░░   45.16 % 
-Saturday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Monday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Friday                   56 commits          ███████████░░░░░░░░░░░░░░   44.09 % 
+Saturday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Sunday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 ```
 
 
@@ -63,37 +63,37 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-Other                    2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Python                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-TypeScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Markdown                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Other                    2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Python                   2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+TypeScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 8 mins        ███████████████░░░░░░░░░░   58.78 % 
-Codex CLI                2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-VS Code                  2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Claude Code              7 hrs 17 mins       ████████████████░░░░░░░░░   62.08 % 
+Codex CLI                2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+VS Code                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
 
 🐱‍💻 Projects: 
-Yodo                     3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-opensource_contribution  2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-rl-handbook              2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-scratch-2026-09-07-639c9544 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-TensorRT-Model-Connect   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Yodo                     3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+rl-handbook              2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+opensource_contribution  2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+scratch-2026-09-07-639c9544 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+TensorRT-Model-Connect   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Linux                    7 hrs 4 mins        ███████████████░░░░░░░░░░   58.28 % 
-Mac                      5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.72 % 
+Linux                    6 hrs 41 mins       ██████████████░░░░░░░░░░░   56.88 % 
+Mac                      5 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.12 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████████████░░░░░░░░░░░░   51.72 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   15 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
