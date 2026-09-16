@@ -10,10 +10,6 @@
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/moviw" alt="Zimo's GitHub contribution graph" />
-</p>
-
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin:8px 0 16px;">
   <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/overview.svg" alt="GitHub statistics" />
   <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg" alt="Most used languages" />
