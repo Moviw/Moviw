@@ -10,6 +10,10 @@
 
 <br clear="both">
 
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=moviw&theme=github-compact" alt="Zimo's github activity graph" /></a>
+</p>
+
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin:8px 0 16px;">
   <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/overview.svg" alt="GitHub statistics" />
   <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg" alt="Most used languages" />
@@ -25,13 +29,6 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 100px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
-
-## 📈 Activity
-
-<p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=moviw&theme=github-compact" alt="Zimo's github activity graph" /></a>
-</p>
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2021%20mins-blue?style=flat)
