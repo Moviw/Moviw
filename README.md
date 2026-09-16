@@ -11,7 +11,7 @@
 <br clear="both">
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=moviw&theme=github-compact" alt="Zimo's github activity graph" /></a>
+  <img src="https://ghchart.rshah.org/moviw" alt="Zimo's GitHub contribution graph" />
 </p>
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin:8px 0 16px;">
