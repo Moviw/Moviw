@@ -49,38 +49,6 @@ Saturday                 59 commits          ████░░░░░░░�
 Sunday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    10 hrs 36 mins      ██████████████░░░░░░░░░░░   54.48 % 
-Python                   3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Markdown                 3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-YAML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-
-🔥 Editors: 
-Codex CLI                10 hrs              █████████████░░░░░░░░░░░░   51.41 % 
-Claude Code              5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-VS Code                  2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Codex Vscode             1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🐱‍💻 Projects: 
-cello                    5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-ARMA                     3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-codex-statusline         2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-ssh-ls                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Desktop                  1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-
-💻 Operating System: 
-Linux                    12 hrs 49 mins      ████████████████░░░░░░░░░   65.88 % 
-Mac                      6 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.12 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
