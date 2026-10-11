@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-🌆 Daytime                151 commits         ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌃 Evening                134 commits         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌙 Night                  129 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌞 Morning                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+🌆 Daytime                154 commits         ████████░░░░░░░░░░░░░░░░░   30.99 % 
+🌃 Evening                138 commits         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+🌙 Night                  137 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Tuesday                  38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Wednesday                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Thursday                 87 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Friday                   109 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-Saturday                 69 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Sunday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Monday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Tuesday                  38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Wednesday                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Thursday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Sunday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 ```
 
 
@@ -56,29 +56,15 @@ Sunday                   45 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    8 hrs 23 mins       ████████████████░░░░░░░░░   62.71 % 
-Python                   3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-
-🔥 Editors: 
-Codex CLI                7 hrs 24 mins       ██████████████░░░░░░░░░░░   55.34 % 
-Claude Code              4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
-VS Code                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Codex Vscode             32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Hermes                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🐱‍💻 Projects: 
-cello                    5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
-ARMA                     4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.78 % 
-opensource_contribution  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-CapLite                  1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-mac-cal1-tinytex-200-250-27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Other                    8 hrs 14 mins       ██████████████░░░░░░░░░░░   57.40 % 
+Python                   3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+TeX                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Swift                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Linux                    11 hrs 27 mins      █████████████████████░░░░   85.63 % 
-Mac                      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Linux                    10 hrs 23 mins      ██████████████████░░░░░░░   72.40 % 
+Mac                      3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
 ```
 
 **I Mostly Code in Python** 
