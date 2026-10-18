@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌆 Daytime                199 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
-🌃 Evening                177 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌙 Night                  167 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+🌞 Morning                91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+🌆 Daytime                200 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
+🌃 Evening                176 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌙 Night                  166 commits         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   114 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Monday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 Tuesday                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Wednesday                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Thursday                 124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 Friday                   125 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 Saturday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Sunday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 
 
@@ -56,15 +56,15 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Python                   2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-TeX                      1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Swift                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Other                    3 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.92 % 
+Python                   1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+TeX                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Swift                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Mac                      5 hrs 32 mins       ███████████████░░░░░░░░░░   61.64 % 
-Linux                    3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.36 % 
+Linux                    3 hrs 27 mins       █████████████░░░░░░░░░░░░   51.40 % 
+Mac                      3 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.60 % 
 ```
 
 **I Mostly Code in Python** 
