@@ -8,12 +8,6 @@
   - 🌱 Specializing in Language Reasoning Models, Multimodality, Reinforcement Learning, and Agent System.
   - 🌍 Speaking English, Japanese, and Chinese.
 
-<br clear="both">
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin:8px 0 16px;">
-  <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/overview.svg" alt="GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/moviw/moviw/output/generated/languages.svg" alt="Most used languages" />
-</div>
 
 ## Languages and Tools 🧑‍💻
 
