@@ -21,26 +21,26 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2017%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-🌆 Daytime                235 commits         ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-🌃 Evening                208 commits         ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-🌙 Night                  230 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌞 Morning                120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+🌆 Daytime                231 commits         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+🌃 Evening                202 commits         ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+🌙 Night                  224 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   175 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Wednesday                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Thursday                 134 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Friday                   145 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Saturday                 77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Sunday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Monday                   175 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+Tuesday                  75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Thursday                 130 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Friday                   145 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 ```
 
 
@@ -50,24 +50,24 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Markdown                 5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Python                   5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Bash                     2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Python                   6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+TeX                      5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Markdown                 4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Bash                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Other                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 💻 Operating System: 
-Linux                    22 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ██████████████░░░░░░░░░░░   55.56 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   18 repos            █████████████░░░░░░░░░░░░   52.94 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
