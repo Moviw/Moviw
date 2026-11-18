@@ -21,26 +21,26 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2033%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-🌆 Daytime                243 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-🌃 Evening                205 commits         ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-🌙 Night                  240 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+🌆 Daytime                246 commits         ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌃 Evening                204 commits         ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌙 Night                  238 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Tuesday                  76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Wednesday                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Thursday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Friday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Saturday                 79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Sunday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Monday                   180 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Tuesday                  77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Wednesday                106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Thursday                 141 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Friday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Saturday                 79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Sunday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 ```
 
 
@@ -50,15 +50,15 @@ Sunday                   90 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-Python                   7 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Other                    6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Markdown                 4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Astro                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Other                    7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+TeX                      7 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Python                   6 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Markdown                 4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+HTML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-Linux                    23 hrs 7 mins       █████████████████░░░░░░░░   66.61 % 
-Mac                      11 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
+Linux                    17 hrs 59 mins      ███████████████░░░░░░░░░░   58.05 % 
+Mac                      13 hrs              ██████████░░░░░░░░░░░░░░░   41.95 % 
 ```
 
 **I Mostly Code in Python** 
