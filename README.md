@@ -21,13 +21,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                156 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-🌆 Daytime                277 commits         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌞 Morning                157 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌆 Daytime                276 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
 🌃 Evening                261 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
 🌙 Night                  340 commits         ████████░░░░░░░░░░░░░░░░░   32.88 % 
 ```
@@ -36,11 +36,11 @@
 ```text
 Monday                   205 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Wednesday                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Wednesday                132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Thursday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Friday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 Saturday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Sunday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 ```
 
 
@@ -50,25 +50,25 @@ Sunday                   130 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Python                   3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Markdown                 3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Other                    2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Markdown                 10 hrs 38 mins      ██████████████░░░░░░░░░░░   54.85 % 
+Other                    2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Python                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+TeX                      1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Text                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 💻 Operating System: 
-Linux                    10 hrs 53 mins      █████████████████░░░░░░░░   68.94 % 
-Mac                      4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.06 % 
+Mac                      16 hrs 41 mins      █████████████████████░░░░   85.95 % 
+Linux                    2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ██████████████░░░░░░░░░░░   54.29 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   20 repos            ██████████████░░░░░░░░░░░   55.56 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
